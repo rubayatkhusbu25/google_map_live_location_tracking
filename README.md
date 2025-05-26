@@ -16,8 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-map key: AIzaSyBo_nPLA7rs18v00xCW5KXpCVYYEPxh5JU
 
-location :  LocationData<lat: 37.4219983, long: -122.084>
-geolocator: Latitude: 37.4219983, Longitude: -122.084
 
